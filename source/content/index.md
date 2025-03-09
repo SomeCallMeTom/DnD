@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Tom's DnD House Rules
 ---
 
-Hello world!
-
-Write some words here!
+Hey! yo, whattup?
