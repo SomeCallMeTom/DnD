@@ -1,6 +1,5 @@
 ---
-title: Tom's DnD House Rules
+title: Tom's DnD House Rules & References
 ---
-This is an example
 
 
