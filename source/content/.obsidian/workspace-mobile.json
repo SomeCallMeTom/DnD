@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Clippings/Pointy Hat - Sports Match Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Pointy Hat - Sports Match Rules"
             }
           }
         ]
@@ -154,6 +154,9 @@
   },
   "active": "a021afae59ecbd10",
   "lastOpenFiles": [
+    "index.md",
+    "Clippings/Pointy Hat - Sports Match Rules.md",
+    "Clippings",
     "Hammond's Harvesting.md",
     "category-folder/index.md"
   ]
