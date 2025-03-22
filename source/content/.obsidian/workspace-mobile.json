@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -153,5 +153,8 @@
     }
   },
   "active": "a021afae59ecbd10",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Hammond's Harvesting.md",
+    "category-folder/index.md"
+  ]
 }
