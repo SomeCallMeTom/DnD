@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Clippings/Sports Match Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Sports Match Rules"
             }
           }
         ]
@@ -154,8 +154,8 @@
   },
   "active": "a021afae59ecbd10",
   "lastOpenFiles": [
-    "Clippings/Sports Match Rules.md",
     "index.md",
+    "Clippings/Sports Match Rules.md",
     "Clippings",
     "Hammond's Harvesting.md",
     "category-folder/index.md"
