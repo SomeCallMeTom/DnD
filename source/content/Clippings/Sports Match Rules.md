@@ -1,13 +1,14 @@
 ---
-title: "Sports Match Rules"
-source: "https://docs.google.com/document/u/0/d/1-olJ9Pb1BxOnWwTs5XFRt31xtT3-8dC1HF6OIJreQMw/mobilebasic"
+title: Sports Match Rules
+source: https://docs.google.com/document/u/0/d/1-olJ9Pb1BxOnWwTs5XFRt31xtT3-8dC1HF6OIJreQMw/mobilebasic
 author:
-  - "Pointy Hat"
-published:
+  - Pointy Hat
+published: 
 created: 2025-03-22
-description: "Pointy Hat Sports Match Rules  An Introduction Welcome! This document is a set of rules that allows you to integrate sports rules into a combat encounter. These rules are not system agnostic, as they use the 5e combat rules as a base to build on, but with tweaking they can be adapted to any syst..."
+description: Pointy Hat Sports Match Rules  An Introduction Welcome! This document is a set of rules that allows you to integrate sports rules into a combat encounter. These rules are not system agnostic, as they use the 5e combat rules as a base to build on, but with tweaking they can be adapted to any syst...
 tags:
-  - "clippings"
+  - clippings
+  - pointy-hat
 ---
 Pointy Hat
 
