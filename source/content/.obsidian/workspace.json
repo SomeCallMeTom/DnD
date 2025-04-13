@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "ba2d7727604f7e5f",
         "type": "tabs",
         "children": [
           {
-            "id": "7a97cba925565504",
+            "id": "f05033886e78cab4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/Hamund's Harvesting Handbook  Volume 2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hamund's Harvesting Handbook  Volume 2"
+              "title": "New tab"
             }
           }
         ]
@@ -74,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,10 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0829eb50dbb8a2b3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "index.md",
     "private/Hamund's Harvesting Handbook  Volume 2.md",
+    "index.md",
     "category-folder/index.md",
     "category-folder/Some note.md",
     "Clippings/Sports Match Rules.md",
