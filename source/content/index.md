@@ -15,10 +15,9 @@
 
 | Number | Effect                       |
 | ------ | ---------------------------- |
-| 1      | Prone and end of turn.       |
-| 3      | Prone.                       |
-| 4      | Disadvantage on next attack. |
-| 5      | Attack of Opportunity.       |
+| 1      | Prone.                       |
+| 2      | Disadvantage on next attack. |
+| 3      | Attack of Opportunity.       |
 | 4      | Attack misses.               |
 
  
