@@ -4,7 +4,7 @@
 ## Battle
 
  - Flanking grants +2 to hit
- - Improvising, using an object, or 
+ - Improv/Utilize 
  
  #### Potions
  - Drinking is a Bonus Action.
