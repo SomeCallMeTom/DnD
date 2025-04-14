@@ -11,7 +11,7 @@
  
  #### Crits
  - Critical Hit Damage is Max standard damage, plus an additional die roll.
- - For Critical Failures roll a D6
+ - For Critical Failures roll a d4
 
 | Number | Effect                       |
 | ------ | ---------------------------- |
@@ -21,5 +21,4 @@
 | 4      | Attack misses.               |
 
  
- - Death Saves will be made in secret, no noises or faces, if you cannot comply, I will roll your Death Saves.
- - 
+ - Death Saves will be made in secret, no noises or faces. If you cannot comply, I will roll your Death Saves.
