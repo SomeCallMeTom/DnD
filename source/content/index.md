@@ -6,7 +6,7 @@
  - Flanking grants +2 to hit
  
  #### Potions
- - Drinking as a Bonus Action
+ - Drinking is a Bonus Action.
  - Feeding it to an unconscious character is a full Action.
  
  #### Crits
