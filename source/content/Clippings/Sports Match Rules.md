@@ -134,4 +134,3 @@ OPEN GAMING CONTENT
 
 All content from the System Reference Document 5.1 is Open Game Content as described in Section 1(d) of the License. No portion of this work other than the material designated as Open Game Content may be reproduced in any form without permission.
 
-https://www.thingiverse.com/thing:3694816/files
